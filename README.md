@@ -29,29 +29,17 @@ This is a web based application developed for health related based website in in
 ## Screenshots
 Screenshot_2022-12-01-19-51-56-927_com.android.chrome
 Screenshot_2022-12-01-19-52-04-087_com.android.chrome
-
-
-   
-
 ### About Us -
 Screenshot_2022-12-01-19-52-22-974_com.android.chrome
 Screenshot_2022-12-01-19-52-32-722_com.android.chrome
-
 ### Services -
 Screenshot_2022-12-01-19-52-46-510_com.android.chrome
 Screenshot_2022-12-01-19-52-57-350_com.android.chrome
-
 ### Contact us -
 Screenshot_2022-12-01-19-53-08-538_com.android.chrome
-
-
 ### Chat bot
 Screenshot_2022-12-01-19-53-59-670_com.android.chrome
-
-
-
 ## Tech Stack 💻
-
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS3
